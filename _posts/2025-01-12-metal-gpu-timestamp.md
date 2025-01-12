@@ -2,9 +2,9 @@
 title: GPU timing query in Metal API
 description: How to implement writeTimestamp for Metal API in multi-api engine.
 author: snowapril
-date: 2025-01-12 20:00:00 +0800
-categories: [Metal, Dev]
-tags: [metal]
+date: 2025-01-12 20:00:00 +0900
+categories: [Metal, Devlog]
+tags: [metal, timestamp]
 pin: true
 math: true
 mermaid: true
